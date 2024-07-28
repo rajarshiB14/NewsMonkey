@@ -5,7 +5,7 @@ import News from './Components/News'
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div  style={{backgroundColor: "#000"}}>
         <Navbar />
         <News />
       </div>

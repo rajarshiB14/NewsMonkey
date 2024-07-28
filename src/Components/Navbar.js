@@ -17,6 +17,7 @@ export class Navbar extends Component {
                                 </li>
                             </ul>
                         </div>
+                        <button type="button" class="btn btn-light mx-3">Info</button>
                     </div>
                 </nav>
             </div>
