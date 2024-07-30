@@ -10,7 +10,7 @@ export class Newsitem extends Component {
                         <div className="card-body" style={{color: "#fff", backgroundColor: "rgb(24, 24, 24)"}}>
                             <h5 className="card-title">{title}</h5>
                             <p className="card-text">{description}</p>
-                            <a href={URL} className="btn btn-outline-light btn-sm">Red more...</a>
+                            <a href={URL} className="btn btn-outline-light btn-sm">Read more...</a>
                         </div>
                 </div>
             </div>
